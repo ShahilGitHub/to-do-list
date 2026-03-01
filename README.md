@@ -1,14 +1,3 @@
 📝 To-Do List App
 
-A simple and user-friendly To-Do List application that helps users add, edit, delete, and manage daily tasks efficiently.
-
-🚀 Features
-Add new tasks
-Mark tasks as completed
-Delete tasks
-Clean and responsive design
-
-🛠️ Technologies Used
-HTML
-CSS
-JavaScript
+This is a simple and user-friendly To-Do List application that allows users to add, edit, delete, and manage their daily tasks efficiently. The application is designed with a clean and responsive interface to provide a smooth user experience. It is built using HTML, CSS, and JavaScript to demonstrate basic front-end development skills and task management functionality.
